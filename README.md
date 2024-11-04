@@ -2,20 +2,23 @@
 
 <h3 align="center">Estudiante Universitario🌟.</h3>
 
-<br>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación.
-
+Soy un estudiante universitario de con pensum cerrado de Ingeniería en Sistemas y actualmente me encuentro estudiando la Maestria en Seguridad Informatica. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+* **Estoy interesado en diseño/desarrollo web, programación.**
+- 🌱 Actualmente estoy aprendiendo...
+  - Java
+  - SQL
+  - Angular
+- 👯 Tengo muchas ganas de colaborar en proyectos.
+- ✔ Pregúntame sobre cualquier cosa, estaré encantada de ayudarte, ¡sy se que nos llevaremos bien!😉<br>
+- ⚡ Dato curioso: - La comida y la música🎵 son las razones para vivir.
+- Otros intereses, 📖 Me encanta leer, 🖌️ pintar y dibujar, 🎵 escuchar música y 🌴 explorar la naturaleza al aire libre.
 - 📫 Cantactame **perezmanfredo959@gmail.com**
 
-- ⚡ Dato curioso: - La comida y la música🎵 son las razones para vivir.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/elfego-manfredo-p%C3%A9rez-ramos-43140124a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -27,4 +30,9 @@
       src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"
       alt="adampithewan" height="30" width="65" /></a>
 </p>
+
+
+
+
+
 
