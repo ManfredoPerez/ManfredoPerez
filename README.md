@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Soy un estudiante universitario de con pensum cerrado de Ingeniería en Sistemas y actualmente me encuentro estudiando la Maestria en Seguridad Informatica. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
+Soy un estudiante universitario con pensum cerrado de Ingeniería en Sistemas y actualmente me encuentro estudiando la Maestria en Seguridad Informatica. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo.
 * **Estoy interesado en diseño/desarrollo web, programación.**
 - 🌱 Actualmente estoy aprendiendo...
   - Java
